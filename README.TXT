@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This project was a Casino that I made when I was a Junior in High School. Originally the project was to make a blackjack game for my sophomore year final project in APCSA, however I decided to add a Roulette game and a Texas Hold'em game my Junior year for fun. The Casino does not have graphics as I did not know how to do that at the time, but it is interactive and works through multiple rounds of the game, keeping track of all the money bet and what your current amount is. 
